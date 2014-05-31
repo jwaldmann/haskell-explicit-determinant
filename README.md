@@ -1,0 +1,2 @@
+haskell-explicit-determinant
+============================
